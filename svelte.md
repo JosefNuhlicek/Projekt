@@ -8,3 +8,8 @@ https://www.okupter.com/blog/deploy-sveltekit-website-to-github-pages
 
 https://www.captaincodeman.com/deploy-a-sveltekit-app-to-github-pages
 
+https://github.com/DevLucem/PWA
+
+https://www.devsamples.com/javascript/svelte/deploy-svelte-app-gh-pages
+
+https://vite-pwa-org.netlify.app/
